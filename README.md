@@ -1,4 +1,4 @@
-# Mushroom Risk & Edibility Analysis 
+# Mushroom Risk and Edibility Analysis 
 ---
 # Leveraging Machine Learning to Analyse Mushroom Traits and Predict Potential Toxicity
 

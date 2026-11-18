@@ -159,7 +159,6 @@ This post-processing correction successfully bridged inductive machine learning 
     test.csv                 # 1,124 unlabeled test instances
     sample_submission.csv    # Kaggle submission template
  MushroomAnalysis.ipynb       # Full Jupyter analysis, EDA, training & ensemble pipeline
- submission.csv               # Generated final predictions (Score: 1.00000)
  README.md                    # Project documentation & architecture specifications
 ```
 
